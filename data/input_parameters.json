@@ -1,0 +1,10 @@
+JSON
+{
+  "mean_demand": 10000,
+  "std_demand": 1800,
+  "unit_price": 45.0,
+  "cost_mean": 22.0,
+  "cost_std": 3.5,
+  "fixed_costs": 120000.0,
+  "num_trials": 500
+}
